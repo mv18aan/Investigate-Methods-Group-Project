@@ -31,28 +31,7 @@ def printMenu():
 
 
 def main():
-    choice = True
-    while choice:
-        printMenu()
-        choice = input("Select option [1-6]: ")
-        print
-
-        if choice == "1":
-            train()
-        elif choice == "2":
-            test()
-        elif choice == "3":
-            evaluate()
-        elif choice == "4":
-            gui()
-        elif choice == "5":
-            printInfo()
-        elif choice == "6":
-            print("Exiting....\n")
-            choice = False
-        else:
-            print("Invalid choice.")
-            choice = True
+    print('welcome')
 
 
 # Training Program, builds map of words and emotion values from annotated corpus
@@ -67,6 +46,17 @@ def train():
         with open("./data/" + text, 'r') as textFile:
             with open("./data/" + values, 'r') as valueFile:
                 WordMap.buildWordMap(reset, textFile, valueFile)
+
+    except IOError:
+        print("File not found. Returning to main menu...\n")
+
+
+def do_train(tf, vf, rs):
+    try:
+        print("Loading input values into WordMap...\n")
+        with open(tf, 'r') as textFile:
+            with open(vf, 'r') as valueFile:
+                WordMap.buildWordMap(rs, textFile, valueFile)
 
     except IOError:
         print("File not found. Returning to main menu...\n")
@@ -87,6 +77,20 @@ def test():
 
     except IOError:
         print("File not found. Returning to main menu...\n")
+
+
+def do_test(tf, vf):
+    try:
+        print("\nRunning text evaluation...\n")
+        with open(tf, 'r') as textFile:
+            print ("text found")
+            with open(vf, 'r') as valueFile:
+                print ("values found")
+                EvaluateText.evaluate(textFile, valueFile)
+
+    except IOError:
+        print("File not found. Returning to main menu...\n")
+
 
 
 def evaluate():
