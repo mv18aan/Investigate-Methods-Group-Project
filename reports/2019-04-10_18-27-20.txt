@@ -1,0 +1,552 @@
+1960161991,after show at our house rocked! saying goodbye soon
+
+Filtered: ['show', 'hous', 'rock', 'say', 'goodby', 'soon']
+Words not found:[]
+Emotion probabilities: -20.34,-18.30,-20.25,-18.23,-18.12,-19.17,-18.89,-20.21,-20.14,-18.35,-21.79,-20.08,-22.33
+Predicted emotion: Worry
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960162032,my to do list is bananas before i leave for Europe BOOOO
+
+Filtered: ['list', 'banana', 'leav']
+Words not found:[]
+Emotion probabilities: -10.81,-10.54,-11.03,-9.93,-10.55,-10.31,-10.75,-10.79,-10.64,-10.92,-11.05,-10.58,-11.32
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960162423,HES BACK!!!!! OH NOES!!!! have you missed me?  Work has been insane and the band has really taken off so i haven't had a moment to myself
+
+Filtered: ['back', 'oh', 'noe', 'miss', 'work', 'insan', 'band', 'realli', 'taken', 'moment']
+Words not found:[]
+Emotion probabilities: -32.90,-30.63,-33.51,-31.16,-30.90,-32.51,-31.27,-32.04,-32.91,-31.37,-34.59,-32.60,-36.82
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960163033,NO! Our TV's busted  The screen turned white for about a nanosecond while it made a quick &quot;popping&quot; sound.
+
+Filtered: ['bust', 'screen', 'turn', 'white', 'nanosecond', 'made', 'quick', 'pop', 'sound']
+Words not found:['nanosecond']
+Emotion probabilities: -29.39,-28.90,-28.85,-27.97,-28.10,-27.13,-28.34,-27.69,-28.75,-28.29,-29.96,-28.17,-29.28
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+1960163075,I'm a fat and sad puffyn now
+
+Filtered: ['fat', 'sad']
+Words not found:[]
+Emotion probabilities: -7.42,-6.22,-7.75,-7.59,-6.24,-6.79,-7.66,-7.39,-7.51,-7.44,-7.57,-7.27,-7.54
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960164268,@MCRmuffin i couldn't be there for her last night cause i fell asleep like a retard.  agh.
+
+Filtered: ['could', 'last', 'night', 'caus', 'fell', 'asleep', 'like', 'retard']
+Words not found:[]
+Emotion probabilities: -27.69,-24.54,-26.60,-24.90,-24.28,-25.37,-25.11,-25.96,-26.43,-25.37,-28.96,-25.46,-29.58
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960164604,enjoying and exploring my n96 phone.. grr.. it's awesome.. but i wanted the samsung omnia..
+
+Filtered: ['enjoy', 'explor', 'want']
+Words not found:[]
+Emotion probabilities: -10.63,-9.86,-9.79,-9.67,-9.70,-10.11,-9.38,-10.09,-10.01,-9.05,-11.35,-9.58,-11.02
+Predicted emotion: Happiness
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+1960164777,Very lonely here in Gosforth gallery  but excited for meal at Six followed by Antony and the Johnsons tonight. Woohoo!!
+
+Filtered: ['lone', 'galleri', 'excit', 'meal', 'six', 'follow', 'tonight']
+Words not found:[]
+Emotion probabilities: -24.63,-23.87,-24.80,-24.65,-25.23,-24.24,-24.00,-24.51,-25.36,-24.48,-26.48,-24.19,-26.11
+Predicted emotion: Sadness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+1960165478,The internetz is busy this Friday morning: Google Wave Hulu Desktop
+
+Filtered: ['busi', 'morn', 'wave', 'desktop']
+Words not found:[]
+Emotion probabilities: -14.07,-13.66,-14.06,-13.26,-14.11,-14.34,-14.05,-13.61,-14.45,-13.63,-14.65,-13.76,-14.79
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960165500,Sore throat. This is not good. I have four performances this weekend.
+
+Filtered: ['sore', 'throat', 'good', 'four', 'perform', 'weekend']
+Words not found:[]
+Emotion probabilities: -21.07,-19.76,-20.43,-20.45,-19.95,-21.53,-20.44,-20.44,-20.16,-19.69,-22.22,-20.41,-22.63
+Predicted emotion: Happiness
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960165822,i never get any followfridays
+
+Filtered: ['never', 'get']
+Words not found:[]
+Emotion probabilities: -5.77,-4.86,-5.83,-4.99,-4.65,-5.21,-5.59,-5.32,-5.34,-5.29,-6.79,-5.36,-6.77
+Predicted emotion: Worry
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960166165,@xkaraxcupcakex  I'm sorry. This is all so sad.
+
+Filtered: ['sorri', 'sad']
+Words not found:[]
+Emotion probabilities: -6.94,-4.53,-7.75,-6.63,-4.82,-5.64,-6.66,-7.52,-7.21,-6.96,-7.57,-6.57,-7.54
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960166403,Oh hell I forgot the non-alcoholic cider for Monday's dinner. MPP is teetotaler. Now must drive to Waupoos. Have 7 cases of wine in car.
+
+Filtered: ['oh', 'hell', 'forgot', 'cider', 'dinner', 'must', 'drive', 'case', 'wine', 'car']
+Words not found:[]
+Emotion probabilities: -36.01,-33.03,-36.38,-33.35,-33.86,-34.39,-35.08,-34.53,-34.26,-33.82,-36.05,-34.84,-36.82
+Predicted emotion: Neutral
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960166730,On my way to the burial
+
+Filtered: ['way', 'burial']
+Words not found:['burial']
+Emotion probabilities: -3.16,-2.89,-3.03,-2.68,-2.68,-3.00,-2.88,-2.92,-3.21,-2.63,-3.31,-2.81,-3.77
+Predicted emotion: Neutral
+Correct emotion: Happiness
+----------------------------------------------------------------------
+1960167127,@Laura_McKay2009 sadly no sitting inside as mobile signal won't work in the garden   I'll be opening the wine at bang on 5pm though!
+
+Filtered: ['sad', 'sit', 'insid', 'mobil', 'signal', 'work', 'garden', 'open', 'wine', 'bang', 'though']
+Words not found:[]
+Emotion probabilities: -38.78,-35.75,-40.18,-38.00,-36.94,-38.30,-38.57,-38.78,-38.64,-39.00,-40.16,-38.19,-41.20
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960167394,suffering benadryl hangover this morning and a killer headache.... ugh!
+
+Filtered: ['suffer', 'hangov', 'morn', 'killer', 'headach', 'ugh']
+Words not found:[]
+Emotion probabilities: -21.09,-19.93,-22.11,-21.55,-20.43,-21.94,-21.36,-22.00,-21.24,-22.25,-21.32,-21.31,-22.03
+Predicted emotion: Sadness
+Correct emotion: Hate
+----------------------------------------------------------------------
+1960167488,Garden going well almost all the corn and peas are up
+
+Filtered: ['garden', 'go', 'well', 'almost', 'corn', 'pea']
+Words not found:[]
+Emotion probabilities: -20.64,-19.75,-20.35,-19.21,-19.88,-19.67,-20.14,-19.77,-19.78,-19.51,-21.14,-19.86,-21.56
+Predicted emotion: Neutral
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960167902,Good Morning Twitts! Another GloOmy day in NYC!
+
+Filtered: ['good', 'morn', 'anoth', 'gloomi', 'day']
+Words not found:[]
+Emotion probabilities: -15.72,-13.65,-14.73,-13.71,-13.70,-15.19,-13.63,-14.57,-15.35,-12.81,-17.18,-14.18,-18.26
+Predicted emotion: Happiness
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960168026,@bdule the installer is crashing towards the end of the installation
+
+Filtered: ['instal', 'crash', 'toward', 'end']
+Words not found:[]
+Emotion probabilities: -14.84,-14.64,-15.20,-15.47,-14.76,-14.73,-15.53,-14.91,-14.73,-14.91,-15.13,-13.96,-15.09
+Predicted emotion: Relief
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960168132,Is off to meet my folks after a while...gonna b a working weekend too
+
+Filtered: ['meet', 'folk', 'b', 'work', 'weekend']
+Words not found:[]
+Emotion probabilities: -16.75,-15.11,-16.57,-15.25,-15.39,-16.23,-16.37,-15.51,-16.42,-15.72,-17.77,-16.63,-18.86
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960168291,@jenisus aww  I have to go to class on that day... So imma do some weird half day thing just cause I wanna see what it's about
+
+Filtered: ['go', 'class', 'day', 'weird', 'half', 'thing', 'caus', 'wan', 'see']
+Words not found:[]
+Emotion probabilities: -28.64,-25.75,-27.93,-25.00,-24.99,-27.44,-26.87,-27.72,-28.32,-26.21,-32.01,-26.60,-32.57
+Predicted emotion: Neutral
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960168482,@gprado Awww I HATE that one!!
+
+Filtered: ['hate', 'one']
+Words not found:[]
+Emotion probabilities: -6.08,-5.24,-6.67,-5.48,-5.20,-5.83,-5.79,-6.02,-4.92,-6.15,-7.26,-6.05,-6.94
+Predicted emotion: Worry
+Correct emotion: Hate
+----------------------------------------------------------------------
+1960168502,@pixls hahahahhahaha it was true! and i could really stretch out and stuff! shame rem's dog got mad when i tried to put him in avi's face
+
+Filtered: ['true', 'could', 'realli', 'stretch', 'stuff', 'shame', 'rem', 'dog', 'got', 'mad', 'tri', 'put', 'face']
+Words not found:[]
+Emotion probabilities: -44.37,-40.69,-45.85,-41.97,-41.43,-42.52,-43.30,-43.36,-44.78,-42.41,-46.97,-43.98,-47.06
+Predicted emotion: Sadness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+1960168536,@garrulous_gal of course! *cough* I mean no
+
+Filtered: ['cours', 'mean']
+Words not found:[]
+Emotion probabilities: -6.47,-6.46,-7.15,-6.31,-6.62,-6.95,-6.94,-6.24,-6.91,-6.48,-7.26,-6.97,-7.54
+Predicted emotion: Neutral
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+1960168797,@xjaded25x not helping!
+
+Filtered: ['help']
+Words not found:[]
+Emotion probabilities: -3.56,-3.25,-3.18,-2.87,-2.77,-3.22,-3.23,-3.52,-3.43,-3.03,-3.48,-3.03,-3.77
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960168925,dev.java.net : the slowest website
+
+Filtered: ['slowest', 'websit']
+Words not found:[]
+Emotion probabilities: -7.25,-8.30,-7.75,-7.82,-7.75,-7.99,-7.79,-7.99,-7.81,-7.67,-7.26,-7.97,-7.54
+Predicted emotion: Neutral
+Correct emotion: Surprise
+----------------------------------------------------------------------
+1960169021,@iamepiclyamazin bahah. but....nick..
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Surprise
+----------------------------------------------------------------------
+1960169342,My back is killing me...  It won't keep me from dropping it low...hope I got someone to pick it back up tho... LOL
+
+Filtered: ['back', 'kill', 'keep', 'drop', 'low', 'hope', 'got', 'someon', 'pick']
+Words not found:[]
+Emotion probabilities: -30.20,-27.93,-30.13,-28.07,-26.08,-30.20,-28.09,-29.65,-28.97,-27.52,-32.36,-28.21,-32.87
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960169489,@Andre_Mitchell i've never been to the opera before...don't think that was me
+
+Filtered: ['never', 'opera', 'think']
+Words not found:[]
+Emotion probabilities: -9.98,-9.47,-9.68,-9.62,-9.02,-9.49,-9.96,-9.65,-9.81,-9.54,-11.05,-9.80,-11.02
+Predicted emotion: Worry
+Correct emotion: Surprise
+----------------------------------------------------------------------
+1960169610,Attending Matthew's Senior Day for recognition and I'm so not ready for this.
+
+Filtered: ['attend', 'senior', 'day', 'recognit', 'readi']
+Words not found:['recognit']
+Emotion probabilities: -13.11,-13.23,-13.37,-13.40,-12.72,-13.71,-13.39,-12.99,-13.60,-12.41,-14.35,-12.86,-14.49
+Predicted emotion: Happiness
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960169784,@KinanLW I live in the Philippines. &gt;.&lt; and honestly i wanna live somewhere with snow!!
+
+Filtered: ['live', 'honest', 'wan', 'somewher', 'snow']
+Words not found:[]
+Emotion probabilities: -17.45,-17.04,-17.54,-17.19,-17.47,-18.25,-17.86,-18.03,-17.86,-17.65,-18.61,-18.31,-18.86
+Predicted emotion: Neutral
+Correct emotion: Hate
+----------------------------------------------------------------------
+1960170610,has a headache already?  boo
+
+Filtered: ['headach', 'alreadi', 'boo']
+Words not found:[]
+Emotion probabilities: -10.15,-9.20,-10.55,-10.07,-9.42,-10.73,-10.49,-10.73,-10.25,-10.80,-11.35,-10.36,-11.02
+Predicted emotion: Worry
+Correct emotion: Surprise
+----------------------------------------------------------------------
+1960170962,Stuck in office till 5. It's so warm outside
+
+Filtered: ['stuck', 'offic', 'till', 'warm', 'outsid']
+Words not found:[]
+Emotion probabilities: -17.50,-16.92,-17.52,-16.34,-16.54,-17.33,-17.90,-17.43,-16.90,-17.35,-18.01,-18.07,-18.86
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960190407,@dwhelan I've wondered about rake to.  The client has made it clear .NET only don't force devs to learn a new lang  #agile #ccnet
+
+Filtered: ['wonder', 'rake', 'client', 'made', 'clear', 'forc', 'learn', 'new', 'agil']
+Words not found:['rake', 'agil']
+Emotion probabilities: -24.65,-24.16,-23.83,-22.57,-23.48,-24.32,-23.92,-24.32,-25.43,-23.05,-26.18,-24.30,-26.11
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960190470,My ancient iPod is nearing death
+
+Filtered: ['ancient', 'near', 'death']
+Words not found:['ancient']
+Emotion probabilities: -7.25,-7.30,-7.45,-7.29,-7.03,-7.21,-7.36,-7.39,-7.21,-6.91,-7.26,-7.49,-7.54
+Predicted emotion: Happiness
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960190630,sorry paul scheuring but prison break series finale sucked... in so many levels
+
+Filtered: ['sorri', 'prison', 'break', 'seri', 'final', 'suck', 'mani', 'level']
+Words not found:['prison']
+Emotion probabilities: -25.25,-22.42,-26.23,-23.43,-21.78,-22.84,-23.75,-24.91,-23.30,-24.29,-25.70,-24.15,-25.33
+Predicted emotion: Worry
+Correct emotion: Hate
+----------------------------------------------------------------------
+1960191045,Yay !!!! It's firday.... Have a good one everyone. On my way to work    Lot's of work pending.
+
+Filtered: ['good', 'one', 'everyon', 'way', 'work', 'lot', 'pend']
+Words not found:[]
+Emotion probabilities: -22.74,-19.91,-20.96,-19.07,-19.53,-21.11,-19.71,-20.07,-22.12,-18.87,-24.38,-20.24,-25.80
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+1960191284,Searching for Dr. Scholl's sandal inserts for men. It seems they only make them for women
+
+Filtered: ['search', 'sandal', 'insert', 'men', 'seem', 'make', 'women']
+Words not found:['sandal']
+Emotion probabilities: -21.31,-21.06,-21.74,-20.86,-21.16,-21.67,-21.62,-21.79,-21.85,-21.31,-22.22,-22.14,-22.33
+Predicted emotion: Neutral
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960192012,now 3 teardrops.
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960192441,Come on bell RING. I want to go outside.
+
+Filtered: ['come', 'bell', 'ring', 'want', 'go', 'outsid']
+Words not found:[]
+Emotion probabilities: -19.51,-18.51,-19.50,-17.61,-17.80,-18.10,-19.08,-18.94,-19.05,-18.42,-21.44,-19.61,-21.56
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960192464,@craigeryowens I work at a movie theatre in Toledo and I'd let you come see it for free. But it's not in 3D
+
+Filtered: ['work', 'theatr', 'let', 'come', 'see', 'free']
+Words not found:[]
+Emotion probabilities: -19.12,-17.41,-18.46,-16.34,-17.12,-17.41,-17.94,-17.78,-19.06,-17.01,-21.55,-18.34,-22.33
+Predicted emotion: Neutral
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960192806,is so bored...
+
+Filtered: ['bore']
+Words not found:[]
+Emotion probabilities: -2.69,-2.70,-3.18,-3.08,-2.87,-3.52,-3.43,-3.39,-3.21,-3.56,-2.78,-3.51,-3.77
+Predicted emotion: Worry
+Correct emotion: Empty
+----------------------------------------------------------------------
+1960192821,I only have 2
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960192921,I hope you come over today...its almost 8  Ill be leaving at 8:30 if you dont show up...I love you &amp; good morning.
+
+Filtered: ['hope', 'come', 'today', 'almost', 'ill', 'leav', 'show', 'love', 'amp', 'good', 'morn']
+Words not found:[]
+Emotion probabilities: -35.00,-30.06,-33.68,-28.66,-28.93,-32.01,-28.56,-31.04,-33.44,-28.38,-38.07,-31.33,-40.29
+Predicted emotion: Happiness
+Correct emotion: Love
+----------------------------------------------------------------------
+1960193477,@fuzzydave at YVR.... Fog delay is in SFO so we can't leave yet
+
+Filtered: ['fog', 'delay', 'leav', 'yet']
+Words not found:['fog']
+Emotion probabilities: -10.41,-9.38,-10.43,-9.98,-9.59,-10.43,-10.51,-10.39,-10.64,-10.58,-11.05,-10.21,-11.32
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960193716,@fosforo  shame on me!!!
+
+Filtered: ['shame']
+Words not found:[]
+Emotion probabilities: -3.56,-3.25,-3.58,-3.73,-3.73,-4.00,-4.13,-4.00,-3.43,-3.96,-3.48,-3.99,-3.77
+Predicted emotion: Sadness
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960194070,@ost8doc  Sorry...but I bet they aren't that bad...
+
+Filtered: ['sorri', 'bet', 'bad']
+Words not found:[]
+Emotion probabilities: -10.63,-9.03,-11.33,-9.58,-8.60,-9.94,-10.02,-10.13,-9.87,-10.12,-10.75,-10.36,-11.02
+Predicted emotion: Worry
+Correct emotion: Relief
+----------------------------------------------------------------------
+1960194171,Oops spent too much already lol 50 quid gone
+
+Filtered: ['oop', 'spent', 'much', 'alreadi', 'quid', 'gone']
+Words not found:[]
+Emotion probabilities: -21.49,-20.17,-20.32,-20.84,-20.37,-20.47,-21.19,-21.18,-20.97,-21.17,-22.40,-20.54,-22.33
+Predicted emotion: Worry
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960194451,@mdurwin Yes - noticed that after the retweet..
+
+Filtered: ['yes', 'notic']
+Words not found:[]
+Emotion probabilities: -6.64,-6.77,-7.15,-6.23,-6.49,-6.39,-6.53,-6.31,-7.21,-6.65,-7.57,-6.97,-7.54
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960194630,had to take my baby to the vet again today
+
+Filtered: ['take', 'babi', 'vet', 'today']
+Words not found:[]
+Emotion probabilities: -13.19,-12.55,-13.37,-12.51,-11.59,-12.98,-11.90,-12.89,-13.35,-12.12,-14.35,-12.58,-14.79
+Predicted emotion: Worry
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+1960194707,@changhee07 i have cigs but no lighter.
+
+Filtered: ['lighter']
+Words not found:['lighter']
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960195075,i've been sick for the past few days  and thus my hair looks wierd.  if i didnt have a hat on it would look... http://tinyurl.com/mnf4kw
+
+Filtered: ['sick', 'past', 'day', 'thus', 'hair', 'look', 'hat', 'would', 'http']
+Words not found:[]
+Emotion probabilities: -30.44,-27.31,-29.46,-27.24,-27.45,-27.32,-27.43,-27.67,-29.28,-27.08,-32.67,-29.37,-32.57
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960195099,gotta go! bye twitterland!  good night! i'll try sleep. so that i will recover easily! still sick!  bye!
+
+Filtered: ['got', 'ta', 'go', 'bye', 'good', 'night', 'tri', 'sleep', 'recov', 'easili', 'still', 'sick']
+Words not found:[]
+Emotion probabilities: -38.67,-34.83,-37.83,-34.63,-34.49,-36.30,-35.89,-36.30,-39.21,-35.61,-41.38,-36.01,-43.41
+Predicted emotion: Worry
+Correct emotion: Relief
+----------------------------------------------------------------------
+1960195679,Recession hit Veronique Branquinho she has to quit her company
+
+Filtered: ['recess', 'hit', 'quit', 'compani']
+Words not found:[]
+Emotion probabilities: -14.67,-14.74,-14.13,-14.20,-14.17,-14.30,-15.15,-14.91,-15.03,-14.60,-14.83,-14.80,-15.09
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960196306,@Emz2009 so sad emma  u sad to be leaving the show? xx
+
+Filtered: ['sad', 'leav', 'show']
+Words not found:[]
+Emotion probabilities: -10.20,-7.62,-10.43,-9.35,-8.24,-8.71,-9.30,-10.11,-10.55,-9.39,-10.75,-9.75,-11.32
+Predicted emotion: Sadness
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960196628,ugh damn! my usual babysitters graduation is on Wednesday and I just got a meeting request from my boss during her graduation
+
+Filtered: ['ugh', 'damn', 'usual', 'babysitt', 'graduat', 'got', 'meet', 'request', 'boss']
+Words not found:['babysitt']
+Emotion probabilities: -26.97,-26.57,-28.50,-27.05,-26.64,-26.55,-28.10,-28.56,-27.09,-26.51,-28.28,-27.38,-29.40
+Predicted emotion: Happiness
+Correct emotion: Hate
+----------------------------------------------------------------------
+1960197220,Forgot to set the alarm for a 6am ride  Hope I can get in a few easy miles after work.  Tomorrow: racin' the Gap!
+
+Filtered: ['forgot', 'set', 'alarm', 'ride', 'hope', 'get', 'easi', 'mile', 'work', 'tomorrow', 'gap']
+Words not found:[]
+Emotion probabilities: -37.35,-35.45,-36.26,-34.99,-34.56,-36.71,-37.03,-35.65,-37.54,-35.33,-39.69,-35.86,-40.42
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960197522,@apostropheme i'm a real BOY goddamit!!!!!!!!!!!!!! guh. apostro. i feel sad. the library lady thinks i'm stupid. SHE'S STUPID.  j
+
+Filtered: ['real', 'boy', 'feel', 'sad', 'librari', 'ladi', 'think', 'stupid']
+Words not found:[]
+Emotion probabilities: -27.78,-23.57,-28.02,-25.80,-23.88,-26.33,-26.93,-27.43,-26.90,-26.46,-29.36,-26.81,-29.40
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960197672,@lkenner i ask myself that all the time.
+
+Filtered: ['ask', 'time']
+Words not found:[]
+Emotion probabilities: -6.17,-5.99,-6.80,-5.52,-5.49,-6.07,-5.85,-6.26,-6.77,-5.93,-7.26,-5.75,-7.54
+Predicted emotion: Neutral
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960197782,@memow what did you think of the finale?  I thought it was kind of a cheap way out
+
+Filtered: ['think', 'final', 'thought', 'kind', 'cheap', 'way']
+Words not found:[]
+Emotion probabilities: -20.49,-18.05,-20.17,-17.73,-18.21,-18.58,-19.25,-19.32,-19.47,-18.49,-21.92,-18.45,-21.86
+Predicted emotion: Neutral
+Correct emotion: Boredom
+----------------------------------------------------------------------
+1960198264,@DJstweet I know... It was just a joke... all in good fun...  some people get my humor &amp; some don't...
+
+Filtered: ['know', 'joke', 'good', 'fun', 'peopl', 'get', 'amp']
+Words not found:[]
+Emotion probabilities: -22.05,-18.96,-21.03,-18.92,-18.13,-20.09,-19.02,-18.50,-20.26,-17.89,-24.75,-19.70,-24.42
+Predicted emotion: Happiness
+Correct emotion: Fun
+----------------------------------------------------------------------
+1960198368,@soyko I have spammed/trolled howardforums.com as well. I have to keep bumping my thread
+
+Filtered: ['well', 'keep', 'bump', 'thread']
+Words not found:[]
+Emotion probabilities: -14.54,-13.79,-13.61,-13.25,-12.83,-13.73,-13.81,-13.65,-13.81,-13.36,-14.65,-13.62,-14.49
+Predicted emotion: Worry
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960198392,Where's  poss   i miss him
+
+Filtered: ['miss']
+Words not found:[]
+Emotion probabilities: -3.16,-1.96,-3.03,-2.76,-2.26,-3.00,-2.45,-3.00,-3.13,-2.81,-3.08,-3.03,-3.47
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960198566,I'm at my saddest right now. I lost my mobile phone earphones. Waz feels a little incomplete and I feel the same
+
+Filtered: ['saddest', 'right', 'lost', 'mobil', 'phone', 'earphon', 'feel', 'littl', 'incomplet']
+Words not found:['earphon', 'incomplet']
+Emotion probabilities: -25.03,-21.28,-24.58,-22.16,-20.83,-22.98,-22.73,-23.34,-23.10,-23.27,-24.98,-23.13,-25.03
+Predicted emotion: Worry
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960198609,@mlbliss   Let us know what happens poor little guy.
+
+Filtered: ['let', 'us', 'know', 'happen', 'poor', 'littl', 'guy']
+Words not found:[]
+Emotion probabilities: -24.18,-20.01,-22.61,-20.54,-19.05,-21.46,-21.19,-22.20,-23.14,-20.96,-25.58,-22.49,-25.20
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+1960198631,if i wasnt workin in 5 hours id be gettin ratarsed to the point where i couldnt even see let alone stand up...THAT is how shit i feel
+
+Filtered: ['hour', 'id', 'point', 'even', 'see', 'let', 'alon', 'stand', 'shit', 'feel']
+Words not found:[]
+Emotion probabilities: -34.20,-30.71,-33.85,-30.65,-31.92,-33.34,-32.45,-33.55,-32.11,-31.40,-35.67,-32.80,-37.25
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+1960198781,@erikvanbrakel company policy. Has been for the last two places I've worked at
+
+Filtered: ['compani', 'polici', 'last', 'two', 'place', 'work']
+Words not found:[]
+Emotion probabilities: -20.67,-18.81,-19.84,-18.69,-19.32,-19.37,-19.66,-19.87,-21.02,-18.66,-21.55,-19.73,-22.33
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960198996,Last day of CGI 09
+
+Filtered: ['last', 'day']
+Words not found:[]
+Emotion probabilities: -6.17,-4.61,-5.49,-4.83,-4.75,-5.09,-4.74,-5.18,-6.08,-4.49,-7.09,-4.92,-6.94
+Predicted emotion: Happiness
+Correct emotion: Neutral
+----------------------------------------------------------------------
+1960199422,@iamchrisc I'm soo jealous right now!!
+
+Filtered: ['jealous', 'right']
+Words not found:[]
+Emotion probabilities: -6.72,-5.88,-6.67,-6.61,-6.21,-6.58,-6.88,-6.21,-6.47,-6.62,-7.26,-6.97,-6.94
+Predicted emotion: Sadness
+Correct emotion: Happiness
+----------------------------------------------------------------------
